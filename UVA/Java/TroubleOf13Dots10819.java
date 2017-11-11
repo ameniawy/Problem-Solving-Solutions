@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class troubleOf13Dots10819 {
+public class TroubleOf13Dots10819 {
 
     static int[] price;
     static int[] value;

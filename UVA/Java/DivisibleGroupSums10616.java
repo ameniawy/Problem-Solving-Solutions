@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class divisibleGroupSums10616 {
+public class DivisibleGroupSums10616 {
 
     static PrintWriter out;
     static long memo[][][];

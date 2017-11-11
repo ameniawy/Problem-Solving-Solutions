@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class divingForGold990 {
+public class DivingForGold990 {
 
     static int[] value;
     static int[] depth;

@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class superSale10130 {
+public class SuperSale10130 {
 
     static int [] price;
     static int [] weight;
